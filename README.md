@@ -2,13 +2,13 @@
 
 ![Status](https://img.shields.io/badge/status-completed-success)
 ![Focus](https://img.shields.io/badge/focus-hardware-blue)
-![Level](https://img.shields.io/badge/level-entry--level-orange)
+![Type](https://img.shields.io/badge/project-PC%20build-informational)
 
 ---
 
 ## 📌 Overview
 Custom-built desktop computer designed for general use and light gaming.  
-This project demonstrates hands-on experience in PC assembly, hardware compatibility, and system configuration.
+This project demonstrates hands-on experience in PC assembly, hardware compatibility, system configuration, and troubleshooting.
 
 ---
 
@@ -28,13 +28,13 @@ This project demonstrates hands-on experience in PC assembly, hardware compatibi
 
 ## 🔧 Build Process
 
-- Installed CPU and stock cooler  
-- Configured dual-channel RAM  
+- Installed CPU and cooler  
+- Configured RAM in dual-channel  
 - Mounted motherboard into case  
 - Installed PSU and routed cables  
 - Installed GPU  
 - Performed cable management  
-- Completed initial boot and BIOS setup  
+- Completed initial boot and BIOS configuration  
 
 ---
 
@@ -42,15 +42,32 @@ This project demonstrates hands-on experience in PC assembly, hardware compatibi
 
 - Operating system installation  
 - Driver installation  
-- Basic system setup and updates  
+- System updates and basic configuration  
 
 ---
 
 ## 🧪 Testing & Validation
 
 - ✅ Successful POST (Power-On Self Test)  
-- ✅ All hardware recognized  
-- ✅ Stable system performance  
+- ✅ All components recognized correctly  
+- ✅ Stable performance under normal usage  
+
+---
+
+## 📷 Build Transformation
+
+Comparison between the initial state and the final assembled system.
+
+### Before
+<p align="center">
+  <img src="pc-buildbefore-1.jpg" width="350"/>
+</p>
+
+### After
+<p align="center">
+  <img src="pc-build-1.1.jpg" width="350"/>
+  <img src="pc-build-1.2.jpg" width="350"/>
+</p>
 
 ---
 
@@ -72,8 +89,6 @@ This project demonstrates hands-on experience in PC assembly, hardware compatibi
 
 ---
 
-## 📷 Project Gallery
+## 📎 Summary
 
-![Build 1](pc-build-1.1.jpg)
-![Build 2](pc-build-1.2.jpg)
-![Build Before](pc-buildbefore-1.jpg)
+Performed full system assembly, hardware installation, and configuration of a desktop computer, ensuring system stability and proper component integration.
