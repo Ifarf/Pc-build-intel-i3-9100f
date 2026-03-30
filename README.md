@@ -74,3 +74,6 @@ This project demonstrates hands-on experience in PC assembly, hardware compatibi
 
 ## 📷 Project Gallery
 
+![Build 1](pc-build-1.1.jpg)
+![Build 2](pc-build-1.2.jpg)
+![Build Before](pc-buildbefore-1.jpg)
