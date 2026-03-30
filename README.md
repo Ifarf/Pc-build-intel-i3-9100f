@@ -86,7 +86,7 @@ Comparison between the initial state and the final assembled system.
 - Upgrade to SSD for faster performance  
 - Increase RAM capacity  
 - Improve airflow and cooling  
-
+- Optimize cable management to improve airflow and internal organization    
 ---
 
 ## 📎 Summary
